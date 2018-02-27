@@ -47,24 +47,12 @@ export class MemberDetails extends Component {
 					<table className="table">
 						<thead>
 							<tr>
-								<th>
-									Name
-						</th>
-								<th>
-									Stars
-						</th>
-								<th>
-									Watches
-						</th>
-								<th>
-									Forks
-						</th>
-								<th>
-									issues
-						</th>
-								<th>
-									Home Page
-						</th>
+								<th> Name </th>
+								<th> Stars </th>
+								<th> Watches </th>
+								<th> Forks </th>
+								<th> Issues </th>
+								<th> Home Page </th>
 							</tr>
 						</thead>
 						<tbody>
